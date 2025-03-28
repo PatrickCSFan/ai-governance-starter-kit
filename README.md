@@ -1,4 +1,4 @@
-# Practical AI Governance Starter Kit
+# Practical AI Governance Starter Kit for AI Projects
 
 Welcome! This open-source starter kit is designed to help teams begin AI projects **responsibly and confidently**, without the need for heavy policies or academic frameworks.
 
